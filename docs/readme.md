@@ -67,6 +67,6 @@ pageDict = {
 
 ||||
 |:---|:---:|---:|
-[<----——](###|[вверх](#)|[——----->](about.md)
+[🔙](contacts.md)|[ 🔝 ](#)|[🔜](about.md)
 
 <script src="assets/js/navi.js"></script>
