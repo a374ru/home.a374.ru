@@ -15,6 +15,6 @@
 
 ||||
 |:---|:---:|---:|
-[🔙](readme.md)|[ 🔝 ](#)|[🔜](contacts.md)
+[🔙](/readme.md)|[ 🔝 ](#)|[🔜](/contacts.md)
 
 <script src="assets/js/navi.js"></script>

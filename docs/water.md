@@ -1,1 +1,1 @@
-[🔙](readme.md)|[ 🔝 ](#)|[🔜](contacts.md)
+[🔙](/readme.md)|[ 🔝 ](#)|[🔜](/contacts.md)
