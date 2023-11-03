@@ -21,17 +21,7 @@
 @font-face {
 	font-family: "Fontics";
 	font-display: auto;
-	src: local("Fontics-Regular.otf"),
-		url("https://a374.ru/assets/font/Fontics-Regular.otf");
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: "Ystm";
-	font-display: auto;
-	src: local("Fontics-Regular.otf"),
-		url("https://a374.ru/assets/font/Ystm-Regular.otf");
+	src: local("Fontics-Regular"), url("https://fonts.a374.ru/Fontics-Regular.otf");
 	font-weight: normal;
 	font-style: normal;
 }
@@ -211,7 +201,7 @@ h2::first-letter {
 h3 {
 	font-size: 1.3em;
 	/* transform: rotate(359deg); */
-	color: #353535;
+	color: #696969;
 }
 
 a:link {
