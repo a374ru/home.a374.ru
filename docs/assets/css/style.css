@@ -209,9 +209,9 @@ h2::first-letter {
 }
 
 h3 {
-	font-size: 1.4em;
-	transform: rotate(359deg);
-	color: #696969;
+	font-size: 1.3em;
+	/* transform: rotate(359deg); */
+	color: #353535;
 }
 
 a:link {
