@@ -372,6 +372,9 @@ table.gsc-search-box {
 
 /* ===============@media====================== */
 @media (max-width: 425px) and (orientation: portrait) {
+img {
+		width: 95%;
+	}
 	.markdown-body {
 		width: 97%;
 	}
@@ -390,7 +393,7 @@ table.gsc-search-box {
 
 @media (max-width: 767px) and (orientation: portrait) {
 	img {
-		width: 99%;
+		width: 97%;
 	}
 
 	.navi {
