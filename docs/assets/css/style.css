@@ -373,7 +373,7 @@ table.gsc-search-box {
 /* ===============@media====================== */
 @media (max-width: 425px) and (orientation: portrait) {
 img {
-		width: 95%;
+		width: 90%;
 	}
 	.markdown-body {
 		width: 97%;
