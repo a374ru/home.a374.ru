@@ -204,7 +204,7 @@ navi();
  * @param {int} rsz увеличение размера картинки при клике
  * @param {int} speed animation 
  */
-function rsz(rsz = 100, speed = 0.1) {
+function rsz(rsz = 90, speed = 0.1) {
 
 	let array = document.querySelectorAll('img');
 
