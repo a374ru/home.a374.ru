@@ -393,7 +393,7 @@ img {
 
 @media (max-width: 767px) and (orientation: portrait) {
 	img {
-		width: 97%;
+		width: 90%;
 	}
 
 	.navi {
