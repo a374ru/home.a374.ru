@@ -82,7 +82,7 @@
 
 ||||
 |:----|:-----:|---:|
-[←———](about.md)|[ 🔝 ](#)|[——→](002-energi.md)
+[←——](about.md)|[ 🔝 ](#)|[——→](002-energi.md)
 
 
 <script src="assets/js/navi.js"></script>
