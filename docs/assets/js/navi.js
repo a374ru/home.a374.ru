@@ -12,8 +12,8 @@ pageDict = {
 	"about": "О проекте",
 	"contacts": "Контакты",
 	"navi-page": "Оглавление и поиск",
-	"001-water":"Вода",
-	"002-energy":"Электрика",
+	"001-water": "Вода",
+	"002-energy": "Электрика",
 
 }
 
@@ -36,8 +36,8 @@ function switchColorScheme() {
 
 	whiteBG = '#ffffff';
 	darkBG = '#070000';
-	naviLight = `box-shadow: 0px 10 22 #fffaf5; background:linear-gradient(180deg, ${whiteBG} 98%, #b36c71 1%)`;
-	naviDark = `box-shadow: 0px 20px 52px #611816; background:linear-gradient(180deg, ${darkBG} 98%, red 1%)`;
+	naviLight = `box-shadow: 0px 10 22 #fffaf5; background:linear-gradient(180deg, #fef8f3 98%, #b36c71 1%)`;
+	naviDark = `box-shadow: 0px 20px 52px #611816; background:linear-gradient(180deg, ${darkBG} 98%, brown 2%)`;
 
 	trgr = localStorage.getItem('color') == whiteBG ? true : false;
 
