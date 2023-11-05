@@ -5,7 +5,7 @@
 */
 
 /* среда,  24 августа 2023 v2  */
-@import 'https://fonts.googleapis.com/icon?family=Material+Icons+Two+Tone';
+/* @import "https://fonts.googleapis.com/css2?family=Roboto"; */
 
 :root {
 	--kino-var: #e34234;
@@ -16,6 +16,18 @@
 	--font-var: Fontics;
 	--fontEvng-var: Evangeliecs;
 	--fontSize-H1: 1.7em;
+}
+
+body {
+	font-family: 'Arial';
+	margin: 3em;
+	padding-bottom: 12px;
+	color: #857564;
+	font-size: 22px;
+	/* Created with https://www.css-gradient.com */
+	/* background: -webkit-linear-gradient(top, #fffbf6, #fff9ec); */
+	/* background: -moz-linear-gradient(top, #fffbf6, #fff9ec); */
+	/* background: linear-gradient(to bottom, #fffbf6, #fff9ec); */
 }
 
 @font-face {
@@ -36,17 +48,6 @@ blockquote {
 	margin-bottom: 2em;
 }
 
-body {
-	/* font-family: 'Fontics'; */
-	margin: 3em;
-	padding-bottom: 12px;
-	color: #857564;
-	font-size: 22px;
-	/* Created with https://www.css-gradient.com */
-	/* background: -webkit-linear-gradient(top, #fffbf6, #fff9ec); */
-	/* background: -moz-linear-gradient(top, #fffbf6, #fff9ec); */
-	/* background: linear-gradient(to bottom, #fffbf6, #fff9ec); */
-}
 
 .markdown-body {
 	margin: auto;
