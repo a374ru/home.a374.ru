@@ -1,9 +1,12 @@
 <div class="navi"><nav id="navi"><!-- js --></nav></div>
 
-# Электрика 
+# Электрооборудование 
 
 *Инструкция пользования.*
 
+[Общая схема подключения объектов на участке](assets/Olhovka-techmap/index.html)
+
+[Метрики](assets/pdf/Metrics-Olhovka-90.pdf)
 
 
 

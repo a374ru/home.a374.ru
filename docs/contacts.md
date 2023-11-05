@@ -2,16 +2,9 @@
 
 # Контакты
 
-<span id="az1-img" class="img" onclick="imgResize()">![img](assets/svg/000-start.svg)</span>
-
-
-### Мы здесь: г.Городов, область Областей и долгое жительство в смиренном духе!
-
-
+### olhovka-90@ya.ru
 
 <br>
-
-<span id="az2-img-2" class="img" onclick="imgResize()">![img](assets/svg/000-end.svg)</span>
 
 ||||
 |:---|:---:|---:|
