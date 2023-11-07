@@ -175,12 +175,12 @@ h1 {
 }
 
 h1::first-letter {
-	color: #d62b2b;
+	color: #2b6dd6;
 	font-size: 1.7em;
 }
 
 p {
-	font-size: 1.2em;
+	font-size: 1.2rem;
 }
 
 p::first-letter {
@@ -229,7 +229,7 @@ a:hover {
 }
 
 img {
-	width: 45%;
+	width: 50%;
 	height: auto;
 	display: block;
 	/* margin-left: auto;
@@ -238,7 +238,7 @@ margin-right: auto; */
 	filter: drop-shadow(0px 22px 10px #ccc5);
 	cursor: pointer;
 	padding: 3vw;
-	background-color: #f8f8ffd9;
+	/* background-color: #f8f8ffd9; */
 }
 
 ul {
