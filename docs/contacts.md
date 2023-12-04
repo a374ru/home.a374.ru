@@ -11,12 +11,3 @@
 
 
 
-<!--pagination_start-->
-<br>
-
- |||| 
- |:---|:---:|---:| 
- [←——](az.md)|[ 🔝 ](#)|[——→](navi-page.md) 
-
- <br>
-<!--pagination_end-->

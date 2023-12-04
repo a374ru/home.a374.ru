@@ -20,12 +20,14 @@ description: "В данном разделе представлены матер
 <script src="assets/js/navi.js"></script>
 
 
+
 <!--pagination_start-->
 <br>
 
  |||| 
  |:---|:---:|---:| 
- [←——](005-devices.md)|[ 🔝 ](#)|[——→](404.md) 
+ [←——](005-devices.md)|[ 🔝 ](#)|[——→](contacts.md) 
 
  <br>
 <!--pagination_end-->
+

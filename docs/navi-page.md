@@ -16,12 +16,3 @@
 <span> <script src="assets/js/navi.js"></script></span>
 
 
-<!--pagination_start-->
-<br>
-
- |||| 
- |:---|:---:|---:| 
- [←——](contacts.md)|[ 🔝 ](#)|[——→](readme.md) 
-
- <br>
-<!--pagination_end-->

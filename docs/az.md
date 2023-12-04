@@ -10,12 +10,3 @@
 
 
 
-<!--pagination_start-->
-<br>
-
- |||| 
- |:---|:---:|---:| 
- [←——](about.md)|[ 🔝 ](#)|[——→](contacts.md) 
-
- <br>
-<!--pagination_end-->
