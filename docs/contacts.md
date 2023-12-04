@@ -10,16 +10,3 @@
 <script src="assets/js/navi.js"></script>
 
 
-
-<<<<<<< HEAD
-<!--pagination_start-->
-<br>
-
- |||| 
- |:---|:---:|---:| 
- [←——](about.md)|[ 🔝 ](#)|[——→](navi-page.md) 
-
- <br>
-<!--pagination_end-->
-=======
->>>>>>> test-pagination

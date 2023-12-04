@@ -15,16 +15,3 @@
 
 <span> <script src="assets/js/navi.js"></script></span>
 
-
-<<<<<<< HEAD
-<!--pagination_start-->
-<br>
-
- |||| 
- |:---|:---:|---:| 
- [←——](contacts.md)|[ 🔝 ](#)|[——→](about.md) 
-
- <br>
-<!--pagination_end-->
-=======
->>>>>>> test-pagination
