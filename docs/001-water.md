@@ -95,10 +95,13 @@ description: "Общие сведения о том как устроено во
 
 <script src="assets/js/navi.js"></script>
 
+
 <!--pagination_start-->
 <br>
+
  |||| 
  |:---|:---:|---:| 
- [контакты](0-0-0.md)|[ 🔝 ](#)|[——→](002-energy.md) 
+ [←——](0-0-0.md)|[ 🔝 ](#)|[——→](002-energy.md) 
+
  <br>
 <!--pagination_end-->

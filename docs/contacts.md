@@ -9,12 +9,14 @@
 
 <script src="assets/js/navi.js"></script>
 
+
+
 <!--pagination_start-->
 <br>
 
  |||| 
  |:---|:---:|---:| 
- […начало](readme.md)|[ 🔝 ](#)|[——→](navi-page.md) 
+ [←——](az.md)|[ 🔝 ](#)|[——→](navi-page.md) 
 
  <br>
 <!--pagination_end-->

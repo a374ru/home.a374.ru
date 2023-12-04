@@ -15,10 +15,13 @@
 
 <span> <script src="assets/js/navi.js"></script></span>
 
+
 <!--pagination_start-->
 <br>
+
  |||| 
  |:---|:---:|---:| 
- [контакты](contacts.md)|[ 🔝 ](#)|[——→](readme.md) 
+ [←——](contacts.md)|[ 🔝 ](#)|[——→](readme.md) 
+
  <br>
 <!--pagination_end-->
