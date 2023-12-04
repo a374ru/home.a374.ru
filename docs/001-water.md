@@ -98,3 +98,9 @@ description: "Общие сведения о том как устроено во
 
 
 <script src="assets/js/navi.js"></script>
+<!--pagination_start-->
+<br>
+ |||| 
+ |:---|:---:|---:| 
+ [контакты](0-0-0.md.md)|[ 🔝 ](#)|[——→](002-energy.md.md) 
+ <br><!--pagination_end-->

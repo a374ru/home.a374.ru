@@ -21,3 +21,9 @@ description: "В данном разделе представлены матер
 
 
 <script src="assets/js/navi.js"></script>
+<!--pagination_start-->
+<br>
+ |||| 
+ |:---|:---:|---:| 
+ [контакты](005-devices.md.md)|[ 🔝 ](#)|[——→](404.md.md) 
+ <br><!--pagination_end-->

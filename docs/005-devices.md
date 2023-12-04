@@ -40,3 +40,9 @@ description: "В данном разделе описываются все во�
 
 
 <script src="assets/js/navi.js"></script>
+<!--pagination_start-->
+<br>
+ |||| 
+ |:---|:---:|---:| 
+ [контакты](004-gaz.md.md)|[ 🔝 ](#)|[——→](006-kraski.md.md) 
+ <br><!--pagination_end-->

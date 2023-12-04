@@ -99,3 +99,9 @@ description: "Общие сведения об электрической сис
 
 
 <script src="assets/js/navi.js"></script>
+<!--pagination_start-->
+<br>
+ |||| 
+ |:---|:---:|---:| 
+ [контакты](001-water.md.md)|[ 🔝 ](#)|[——→](003-generator.md.md) 
+ <br><!--pagination_end-->
