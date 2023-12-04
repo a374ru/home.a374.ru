@@ -41,7 +41,7 @@ description: "Автономное энергоснабжение и его ус
 
 
 
-script src="assets/js/navi.js"></script>
+<script src="assets/js/navi.js"></script>
 
 
 <!--pagination_start-->
