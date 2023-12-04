@@ -10,10 +10,13 @@
 <br>
 
 
+
 <!--pagination_start-->
 <br>
+
  |||| 
  |:---|:---:|---:| 
- [контакты](about.md)|[ 🔝 ](#)|[——→](contacts.md) 
+ [←——](about.md)|[ 🔝 ](#)|[——→](contacts.md) 
+
  <br>
 <!--pagination_end-->

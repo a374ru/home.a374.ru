@@ -41,12 +41,15 @@ description: "Автономное энергоснабжение и его ус
 
 
 
-<script src="assets/js/navi.js"></script>
+script src="assets/js/navi.js"></script>
+
 
 <!--pagination_start-->
 <br>
+
  |||| 
  |:---|:---:|---:| 
- [контакты](002-energy.md)|[ 🔝 ](#)|[——→](004-gaz.md) 
+ [←——](002-energy.md)|[ 🔝 ](#)|[——→](004-gaz.md) 
+
  <br>
 <!--pagination_end-->

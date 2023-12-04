@@ -9,10 +9,14 @@
 
 <script src="assets/js/navi.js"></script>
 
+
+
 <!--pagination_start-->
 <br>
+
  |||| 
  |:---|:---:|---:| 
- [контакты](az.md)|[ 🔝 ](#)|[——→](navi-page.md) 
+ [←——](az.md)|[ 🔝 ](#)|[——→](navi-page.md) 
+
  <br>
 <!--pagination_end-->
