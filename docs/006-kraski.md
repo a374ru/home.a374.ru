@@ -15,15 +15,14 @@ description: "В данном разделе представлены матер
 
 <span id="page-name-img" class="img" onclick="imgResize()">![img](https://img.a374.ru/kraski-banya.jpg)</span>
 
-||||
-|:----|:-----:|---:|
-[←——](005-devices.md)|[ 🔝 ](#)|[——→](007-???.md)
 
 
 <script src="assets/js/navi.js"></script>
+
 <!--pagination_start-->
 <br>
  |||| 
  |:---|:---:|---:| 
- [контакты](005-devices.md.md)|[ 🔝 ](#)|[——→](404.md.md) 
- <br><!--pagination_end-->
+ [контакты](005-devices.md)|[ 🔝 ](#)|[——→](404.md) 
+ <br>
+<!--pagination_end-->

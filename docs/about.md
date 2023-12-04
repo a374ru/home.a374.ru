@@ -10,13 +10,12 @@
 
 <br>
 
-||||
-|:---|:---:|---:|
-[←——](readme.md)|[ 🔝 ](#)|[——→](contacts.md)
-
 <script src="assets/js/navi.js"></script><!--pagination_start-->
+
+<!--pagination_start-->
 <br>
  |||| 
  |:---|:---:|---:| 
- [контакты](404.md.md)|[ 🔝 ](#)|[——→](az.md.md) 
- <br><!--pagination_end-->
+ [контакты](404.md)|[ 🔝 ](#)|[——→](az.md) 
+ <br>
+<!--pagination_end-->
