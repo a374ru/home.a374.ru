@@ -13,12 +13,3 @@
 <script src="assets/js/navi.js"></script><!--pagination_start-->
 
 
-<!--pagination_start-->
-<br>
-
- |||| 
- |:---|:---:|---:| 
- [←——](404.md)|[ 🔝 ](#)|[——→](az.md) 
-
- <br>
-<!--pagination_end-->
