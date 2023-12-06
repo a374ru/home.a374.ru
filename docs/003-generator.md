@@ -54,4 +54,3 @@ description: "Автономное энергоснабжение и его ус
 
  <br>
 <!--pagination_end-->
-

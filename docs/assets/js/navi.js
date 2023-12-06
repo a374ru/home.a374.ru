@@ -295,7 +295,7 @@ function kern() {
 		document.getElementById('kern').style.fontKerning = "none";
 		document.getElementById('kern').style.color = "#99769c";
 	}
-}
+		}
 
 // ---------end: kern()-----
 
@@ -310,6 +310,7 @@ window.addEventListener('scroll', function () {
 	else {
 		document.querySelector('.navi').classList.remove("navi-hidden");
 	}
+
 	startScroll = currentPosition;
 
 });
