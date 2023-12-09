@@ -35,7 +35,8 @@ description: "В данном разделе описываются все во�
 
 
 
-<!--pagination_start-->
+
+<!--ystm_start-->
 <br>
 
  |||| 
@@ -43,15 +44,4 @@ description: "В данном разделе описываются все во�
  [←——](004-gaz.md)|[ 🔝 ](#)|[——→](006-kraski.md) 
 
  <br>
-<!--pagination_end-->
-
-
-<!--pagination_start-->
-<br>
-
- |||| 
- |:---|:---:|---:| 
- [←——](004-gaz.md)|[ 🔝 ](#)|[——→](006-kraski.md) 
-
- <br>
-<!--pagination_end-->
+<!--ystm_end-->
