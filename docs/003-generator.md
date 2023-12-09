@@ -45,7 +45,8 @@ script src="assets/js/navi.js"></script>
 
 
 
-<!--pagination_start-->
+
+<!--ystm_start-->
 <br>
 
  |||| 
@@ -53,5 +54,4 @@ script src="assets/js/navi.js"></script>
  [←——](002-energy.md)|[ 🔝 ](#)|[——→](004-gaz.md) 
 
  <br>
-<!--pagination_end-->
-
+<!--ystm_end-->

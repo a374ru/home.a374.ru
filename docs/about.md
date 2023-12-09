@@ -10,6 +10,6 @@
 
 <br>
 
-<script src="assets/js/navi.js"></script><!--pagination_start-->
+<script src="assets/js/navi.js"></script><!--ystm_start-->
 
 
