@@ -4,7 +4,6 @@
 
 # Документация `Ольховка-90/91/92`
 
-<span id="az1-img" class="img" onclick="imgResize(12)">![img](https://img.a374.ru/svg/ya-flag.svg)</span>
 
 Инструкция по управлению домашним хозяйством.<br>
 В данной документации описаны действия, которые необходиимо выполнять в соответствии с сезонами. 
@@ -16,6 +15,10 @@
 2. [Электричество](002-energy.md)
 3. [Генератор](003-generator.md)
 4. [Газ](004-gaz.md)
+
+<br>
+
+<span id="az1-img" class="img" onclick="imgResize(12)">![img](https://img.a374.ru/svg/ya-flag.svg)</span>
 
 <br>
 
