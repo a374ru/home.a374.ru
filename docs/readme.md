@@ -4,7 +4,7 @@
 
 # Документация `Ольховка-90/91/92`
 
-<span id="az1-img" class="img" onclick="imgResize(22)">![img](https://img.a374.ru/svg/ya-flag.svg)</span>
+<span id="az1-img" class="img" onclick="imgResize(12)">![img](https://img.a374.ru/svg/ya-flag.svg)</span>
 
 Инструкция по управлению домашним хозяйством.<br>
 В данной документации описаны действия, которые необходиимо выполнять в соответствии с сезонами. 
