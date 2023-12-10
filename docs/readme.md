@@ -17,5 +17,6 @@
 3. [Генератор](003-generator.md)
 4. [Газ](004-gaz.md)
 
-
 <br>
+
+<script src="assets/js/navi.js"></script>
