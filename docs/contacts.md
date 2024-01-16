@@ -5,7 +5,6 @@
 ### olhovka-90@ya.ru
 
 <br>
-kjkj
 
 <script src="assets/js/navi.js"></script>
 
