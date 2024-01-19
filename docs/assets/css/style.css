@@ -49,6 +49,11 @@ blockquote {
 }
 
 
+.red{
+	color: red;
+}
+
+
 .markdown-body {
 	margin: auto;
 	display: flex;
