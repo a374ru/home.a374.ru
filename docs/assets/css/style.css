@@ -93,7 +93,7 @@ img#search-target-img {
 }
 
 .navi-item:nth-child(odd) {
-	transform: rotate(-5deg);
+	/* transform: rotate(-5deg); */
 	color: red;
 }
 
@@ -170,7 +170,7 @@ h1 {
 	font-size: var(--fontSize-H1);
 	text-transform: uppercase;
 	overflow-wrap: break-word;
-	transform: rotate(358deg);
+	/* transform: rotate(358deg); */
 	font-family: 'Fontics';
 }
 
