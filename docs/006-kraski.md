@@ -1,6 +1,7 @@
 ---
 title: "Покраска дома"
 description: "В данном разделе представлены материалы конечной отделки дома"
+robots: none
 ---
 
 <div class="navi"><nav id="navi"><!-- js --></nav></div>

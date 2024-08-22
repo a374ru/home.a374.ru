@@ -1,6 +1,7 @@
 ---
 title: "Электроснабжение участка"
 description: "Общие сведения об электрической системе данного участка"
+robots: none
 ---
 
 <div class="navi"><nav id="navi"><!-- js --></nav></div>

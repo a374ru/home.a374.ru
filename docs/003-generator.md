@@ -1,6 +1,7 @@
 ---
 title: "Генератор"
 description: "Автономное энергоснабжение и его устройство на участке"
+robots: "none"
 ---
 
 <div class="navi"><nav id="navi"><!-- js --></nav></div>

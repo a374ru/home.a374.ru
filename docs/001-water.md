@@ -1,6 +1,7 @@
 ---
 title: "Водоснабжение участка"
 description: "Общие сведения о том как устроено водоснабжение на участке"
+robots: "none"
 ---
 
 <div class="navi"><nav id="navi"><!-- js --></nav></div>
