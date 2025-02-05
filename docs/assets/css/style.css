@@ -267,6 +267,10 @@ li {
 	background: #fff;
 }
 
+#colorScheme {
+	cursor: pointer;
+}
+
 /* #dobro-day {
 display: absolute;
 background: #f8ffd9;
