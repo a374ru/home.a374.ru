@@ -8,7 +8,7 @@ robots: "none"
 
 # Документация хозяйства Ольховка-90
 
-<span id="ya-flag-img" class="img" onclick="imgResize(22)">![img](https://img.a374.ru/svg/ya-flag.svg)</span>
+<span id="ya-flag-img" class="img" onclick="imgResize(22)"><img alt="img" src="https://img.a374.ru/svg/ya-flag.svg" width="200px"/></span>
 
 Инструкция по управлению домашним хозяйством.
 
