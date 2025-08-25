@@ -40,10 +40,10 @@ body {
 }
 
 blockquote {
-	border-left: 3.2em solid #e9e2da;
+	border-left: .27em solid #e9e2da;
 	/* border-right: 0.1999999999999993em solid #e9e2da; */
 	padding: 0em 1em 0em 3em;
-	border-radius: 20%;
+	border-radius: 7%;
 	/* background: #fcf9ffcc; */
 	margin-bottom: 2em;
 }
