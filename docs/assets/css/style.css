@@ -171,12 +171,17 @@ thead {
 	color: #6d5b6c;
 }
 
+h1:first-child {
+  display: none;
+}
+
 h1 {
 	font-size: var(--fontSize-H1);
 	text-transform: uppercase;
 	overflow-wrap: break-word;
 	/* transform: rotate(358deg); */
 	/* font-family: 'Fontics'; */
+	color: #916d5f;
 }
 
 h1::first-letter {
