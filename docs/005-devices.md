@@ -21,11 +21,9 @@ robots: none
 
 ## Насосная станция
 
-<!-- ![img](assets/svg/Grundfos-PUMP-presures-1.25bar.svg) -->
+<span id="page-name-img" class="img" onclick="imgResize()">![img](assets/svg/Grundfos-PUMP-presures-1.25bar.svg)</span>
 
-<span id="page-name-img" class="img" onclick="imgResize(25)">![img](assets/svg/Grundfos-PUMP-presures-1.25bar.svg)</span>
-
-### <span style="color: #e34234;"> Каждый год проверяйте давление в атмосферном баке, которое должно составлять  <span style="color: #2C87BF;"> **1.25 бар**
+### <span style="color: #e34234;"> Каждый год проверяйте давление в атмосферном баке, которое должно составлять примерно  <span style="color: #2C87BF;"> **1.25 бар**
 
 В подогреваемом боксе установлена насосная станция `Grundfos Scala 2`. Также в боксе может быть установлена смс-розетка контролирующая текущую темперутуру воздуха и подачу питания с оповещением по смс. 
 
